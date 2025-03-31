@@ -1,0 +1,1 @@
+﻿New-PSUApp -Name "AppTest" -FilePath "dashboards\AppTest\AppTest.ps1" -BaseUrl "/apptest" -Authenticated -AutoDeploy
