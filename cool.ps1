@@ -1,1 +1,1 @@
-﻿"testing"
+﻿1..1000 | % { Get-Random | Out-File "$Repository\$_.txt" -Force }
