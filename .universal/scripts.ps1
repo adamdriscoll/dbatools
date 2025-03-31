@@ -1,0 +1,1 @@
+﻿New-PSUScript -Name "cool.ps1" -Description "cool.ps1" -Path "cool.ps1"
