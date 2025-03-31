@@ -1,1 +1,2 @@
-﻿New-PSUApp -Name "AppTest" -FilePath "dashboards\AppTest\AppTest.ps1" -BaseUrl "/apptest" -Authenticated -AutoDeploy
+﻿New-PSUApp -Name "AppTest" -FilePath "dashboards\AppTest\AppTest.ps1" -BaseUrl "/apptest" -Authenticated -AutoDeploy 
+New-PSUApp -Name "apptest2" -FilePath "dashboards\AppTest\AppTest.ps1" -BaseUrl "/apptest23" -Authenticated -AutoDeploy
