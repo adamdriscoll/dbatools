@@ -1,1 +1,1 @@
-﻿New-PSUSchedule -Script "cool.ps1" -Continuous -Delay ([System.TimeSpan]::FromSeconds(5)) -Name "1"
+﻿New-PSUSchedule -Script "cool.ps1" -TimeZone "Etc/UTC" -Continuous -Delay ([System.TimeSpan]::FromSeconds(5)) -Name "1"
